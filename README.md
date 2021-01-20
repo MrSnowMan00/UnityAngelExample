@@ -1,2 +1,2 @@
 # UnityAngelExample
-This is a Unity Proect
+This is a Unity Project
